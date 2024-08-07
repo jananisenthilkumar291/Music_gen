@@ -1,0 +1,182 @@
+[
+    {
+        "collaborative": false,
+        "description": "The hottest 50. Cover: Chappell Roan",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcBWIGoYBM5M",
+        "id": "37i9dQZF1DXcBWIGoYBM5M",
+        "images": [
+            {
+                "height": null,
+                "url": "https://i.scdn.co/image/ab67706f00000002dacf7b6ffe0028c356183527",
+                "width": null
+            }
+        ],
+        "name": "Today\u2019s Top Hits",
+        "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#FFFFFF",
+        "public": true,
+        "snapshot_id": "ZqxZwAAAAAAlx+YpSh/Ae4/1zCaGY95E",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcBWIGoYBM5M/tracks",
+            "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXcBWIGoYBM5M"
+    },
+    {
+        "collaborative": false,
+        "description": "Today's top country hits. Cover: Kacey Musgraves",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX1lVhptIYRda",
+        "id": "37i9dQZF1DX1lVhptIYRda",
+        "images": [
+            {
+                "height": null,
+                "url": "https://i.scdn.co/image/ab67706f00000002d2693ad253952645e96420c1",
+                "width": null
+            }
+        ],
+        "name": "Hot Country",
+        "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#FFC864",
+        "public": true,
+        "snapshot_id": "ZqxZwAAAAABCFDSPQTae5m3zsa7D/f8c",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX1lVhptIYRda/tracks",
+            "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX1lVhptIYRda"
+    },
+    {
+        "collaborative": false,
+        "description": "New music from Ye, Ty Dolla $ign and Polo G.",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0XUsuxWHRQd",
+        "id": "37i9dQZF1DX0XUsuxWHRQd",
+        "images": [
+            {
+                "height": null,
+                "url": "https://i.scdn.co/image/ab67706f0000000246155a52a408f308c7c67eeb",
+                "width": null
+            }
+        ],
+        "name": "RapCaviar",
+        "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#F49B23",
+        "public": true,
+        "snapshot_id": "Zq63SgAAAAApVdkwdr5WWCA4l8OulrSq",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0XUsuxWHRQd/tracks",
+            "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX0XUsuxWHRQd"
+    },
+    {
+        "collaborative": false,
+        "description": "Everyone deserves a happy ending. Listen to the music from the Deadpool series, including Deadpool & Wolverine, now playing in theaters. ",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX5WkSQEMTURo"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX5WkSQEMTURo",
+        "id": "37i9dQZF1DX5WkSQEMTURo",
+        "images": [
+            {
+                "height": null,
+                "url": "https://i.scdn.co/image/ab67706f000000021ec255fdd0522947aceb1781",
+                "width": null
+            }
+        ],
+        "name": "Deadpool Official Playlist",
+        "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "ZqlT9AAAAABP2SVtv5+VjTVVlyvoKFKg",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX5WkSQEMTURo/tracks",
+            "total": 75
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX5WkSQEMTURo"
+    },
+    {
+        "collaborative": false,
+        "description": "The essential tracks, all in one playlist.",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX5KpP2LN299J"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX5KpP2LN299J",
+        "id": "37i9dQZF1DX5KpP2LN299J",
+        "images": [
+            {
+                "height": null,
+                "url": "https://i.scdn.co/image/ab67706f0000000252feef11af8c9d412769ec5a",
+                "width": null
+            }
+        ],
+        "name": "This Is Taylor Swift",
+        "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#FFFFFF",
+        "public": true,
+        "snapshot_id": "ZqsIQAAAAADe3rfnkTpKF5/AovrNituQ",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX5KpP2LN299J/tracks",
+            "total": 180
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX5KpP2LN299J"
+    }
+]
